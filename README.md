@@ -1,7 +1,7 @@
 # NTV05_EasyPrivilegeGetter
 NTAPI简单提权函数视频源代码，用于演示未公开的NtAPI - RtlAdjustPrivilege
 
-## RtlAdjustPrivilege
+## 关于RtlAdjustPrivilege
 
 ### 函数原型
 ```c++
