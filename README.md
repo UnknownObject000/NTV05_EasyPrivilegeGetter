@@ -1,0 +1,2 @@
+# NTV05_EasyPrivilegeGetter
+NTAPI简单提权函数视频源代码
